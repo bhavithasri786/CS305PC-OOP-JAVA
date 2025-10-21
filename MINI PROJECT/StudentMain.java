@@ -11,9 +11,7 @@ class StudentMain implements Operations{
 		String data;
 		while(data=reader.readLine()){
 		String 
+		 }
 		}
-		}
-	}
-
-
+	}
 }
